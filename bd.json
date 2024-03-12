@@ -1,15 +1,9 @@
 [
-  {
-    "nome": "juam",
-    "email": "juan@gemail.com",
-    "cpf": "00000000000",
-    "profissao": "dev",
-    "endereco": null
-  },
+  { "nome": "Teste", "email": "teste", "cpf": "00000000000", "endereco": null },
   {
     "nome": "Junior",
     "email": "junior@email.com",
-    "cpf": "12345678910",
+    "cpf": "20000000000",
     "profissao": "administrador",
     "endereco": {
       "cep": "12123123",
@@ -22,7 +16,7 @@
   {
     "nome": "George",
     "email": "george@email.com",
-    "cpf": "12345678910",
+    "cpf": "30000000000",
     "endereco": {
       "cep": "12123123",
       "rua": "100",
@@ -34,7 +28,7 @@
   {
     "nome": "Eliana",
     "email": "eliana@email.com",
-    "cpf": "12345678910",
+    "cpf": "40000000000",
     "endereco": {
       "cep": "12123123",
       "rua": "100",
@@ -45,7 +39,7 @@
   {
     "nome": "Mateus",
     "email": "mateus@email.com",
-    "cpf": "12345678910",
+    "cpf": "50000000000",
     "endereco": null
   }
 ]
