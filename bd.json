@@ -1,1 +1,51 @@
-[{"nome":"Juan","idade":19},{"nome":"Gabriel","idade":21}]
+[
+  {
+    "nome": "juam",
+    "email": "juan@gemail.com",
+    "cpf": "00000000000",
+    "profissao": "dev",
+    "endereco": null
+  },
+  {
+    "nome": "Junior",
+    "email": "junior@email.com",
+    "cpf": "12345678910",
+    "profissao": "administrador",
+    "endereco": {
+      "cep": "12123123",
+      "rua": "100",
+      "complemento": "centro",
+      "bairro": "recanto",
+      "cidade": "Distrito Federal"
+    }
+  },
+  {
+    "nome": "George",
+    "email": "george@email.com",
+    "cpf": "12345678910",
+    "endereco": {
+      "cep": "12123123",
+      "rua": "100",
+      "complemento": "centro",
+      "bairro": "recanto",
+      "cidade": "Distrito Federal"
+    }
+  },
+  {
+    "nome": "Eliana",
+    "email": "eliana@email.com",
+    "cpf": "12345678910",
+    "endereco": {
+      "cep": "12123123",
+      "rua": "100",
+      "bairro": "recanto",
+      "cidade": "Distrito Federal"
+    }
+  },
+  {
+    "nome": "Mateus",
+    "email": "mateus@email.com",
+    "cpf": "12345678910",
+    "endereco": null
+  }
+]
