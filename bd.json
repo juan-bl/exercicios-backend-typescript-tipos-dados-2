@@ -1,5 +1,4 @@
 [
-  { "nome": "Teste", "email": "teste", "cpf": "00000000000", "endereco": null },
   {
     "nome": "Junior",
     "email": "junior@email.com",
